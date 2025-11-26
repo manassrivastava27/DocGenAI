@@ -1,0 +1,5 @@
+{
+  "name": "DocGen AI Platform",
+  "description": "An AI-assisted document authoring platform for generating, refining, and exporting structured business documents (Word/PPT) using Gemini.",
+  "requestFramePermissions": []
+}
